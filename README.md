@@ -12,10 +12,14 @@ Steps include:
 ## Conclusion
 Neural Networks excel in handling complex patterns in high-dimensional data. This project demonstrates the importance of model selection and hyperparameter tuning in activity recognition tasks.
 
+## Report
+[MLProjectReport (1).pdf](https://github.com/user-attachments/files/18332812/MLProjectReport.1.pdf)
+
 ## How to Run
 1. Clone the repository
 2. Install dependencies
 3. Run the project
    python main.py
+   
 ## References
 - MHEALTH Dataset: [https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
