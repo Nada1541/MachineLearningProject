@@ -17,8 +17,5 @@ Neural Networks excel in handling complex patterns in high-dimensional data. Thi
 2. Install dependencies
 3. Run the project
    python main.py
-   ```
-
 ## References
 - MHEALTH Dataset: [https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
-
