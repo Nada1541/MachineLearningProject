@@ -1,5 +1,3 @@
-# MachineLearningProject
-
 # MHEALTH Activity Recognition Using Machine Learning
 
 ## Introduction
